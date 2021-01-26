@@ -1,2 +1,2 @@
 # Tank-Game
-Very simple tank game written in C.
+Simple console tank game written in pure C.
