@@ -3,8 +3,8 @@ Simple console tank game written in pure C.
 
 Gamplay DEMO
 
-![gameplay-gif](logo)
+![gameplay-gif](https://github.com/lolofuk123/Tank-Console-Game/blob/main/gamplay1.gif)
 
-[logo]: gameplay1.gif "Logo Title Text 2"
+
 
 
